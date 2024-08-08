@@ -1,0 +1,2 @@
+# Sibelius-PhotoScore_Mac
+Sibelius_PhotoScore_Mac
